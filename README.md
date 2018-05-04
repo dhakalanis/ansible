@@ -4,7 +4,7 @@ This wiki mainly covers instruction for installing Ansible.
 ------------------------------------------------------------
 ### My Setup:
 I have installed and configured VirtualBox, Vagrant environment, created VMs on my local MAC OS machine.
-Please refer to https://github.com/dhakalanis/vagrant/wiki 
+Please refer to https://github.com/dhakalanis/vagrant/blob/master/README.md
 
 On this wiki page, I will simply install Ansible on one of the VM (name: dhakal)
 All the steps and instructions are performed on my below VM.
